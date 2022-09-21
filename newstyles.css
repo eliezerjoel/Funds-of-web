@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: wavy;
+}
+body{
+background-image: url("images3.jpeg");
+
+}
+p{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: aqua;
+    font-size: 0.7cm;
+}
