@@ -4,8 +4,10 @@ h1{
     text-decoration: wavy;
 }
 body{
-background-image: url("images3.jpeg");
-
+background-image: url("images3.jpeg")  ;
+background-size: 20cm;
+width: 300px;
+height: 300px;
 }
 p{
     color: brown;
@@ -19,4 +21,13 @@ a{
 a:hover{
     color: aqua;
     font-size: 0.7cm;
+    text-decoration: wavy;
+}
+a:active{
+color: brown;
+text-decoration: dashed;
+}
+a:visited{
+    color: chocolate;
+    text-decoration: solid;
 }
